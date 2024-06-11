@@ -16,7 +16,7 @@ export PATH="$HOME/.scripts:$PATH"
 By default, Shell-It lists the scripts in your working directory.
 
 ```
-$ shell-it.sh
+shell-it.sh
 ```
 
 Output:
@@ -35,7 +35,7 @@ Enter number from 1 to 8:
 
 Alternatively, you could give it a directory to look into:
 ```
-$ shell-it.sh /usr/bin/
+shell-it.sh /usr/bin/
 ```
 Output:
 ```
