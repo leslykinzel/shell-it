@@ -32,8 +32,8 @@ counter=1
 # Make key-value array for each .sh file.
 for file in "$target_dir"/*.sh; do
     if [ -e "$file" ]; then
-        # .sh-it ignores itself.
-        if [ "$(basename "$file")" != "sh-it.sh" ]; then
+        # shell-it ignores itself.
+        if [ "$(basename "$file")" != "shell-it.sh" ]; then
             files_array+=("$(basename "$file")")
             counter=$((counter + 1))
         fi
