@@ -1,5 +1,5 @@
 # Shell-It
-Also known as sh-it: A small CLI for running shell scripts.
+Also known as sh-it: A tiny CLI for running shell scripts.
 
 Currently this doesn't work with scripts that take additional arguments, it is only designed to list and run hardcoded shell scripts.
 
