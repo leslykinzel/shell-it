@@ -44,4 +44,4 @@ Listing scripts in /usr/bin/:
 Enter number from 1 to 1:
 ```
 
-It also has a `--help` flag just in case you forget how to use it.
+It also has a `--help` flag.
