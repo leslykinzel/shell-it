@@ -19,7 +19,7 @@ if [[ "$1" == "--help" ]]; then
     exit 0
 fi
 
-# Defaults to pwd if no path is provided.
+# Defaults to cwd if no path is provided.
 if [ -z "$1" ]; then
     target_dir=$(pwd)
 else
