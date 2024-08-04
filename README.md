@@ -7,7 +7,7 @@ Currently this doesn't work with scripts that take additional arguments, it is o
 
 Install wherever you want. I put `shell-it.sh` in a custom directory called `~/.scripts/`.
 
-Make sure to include `shell-it.sh` to your $PATH. My `.zshrc` includes this:
+Make sure to include `shell-it.sh` in your $PATH. My `.zshrc` includes this:
 
 ```zsh
 export PATH="$HOME/.scripts:$PATH"
