@@ -1,7 +1,7 @@
 # Shell-It
-Also known as sh-it: A tiny CLI for running shell scripts.
+Do you have a bunch of tmux helpers? Maybe you constantly need to ssh into various machines. If you have a lot of shell scripts you might find this useful. 
 
-Currently this doesn't work with scripts that take additional arguments, it is only designed to list and run hardcoded shell scripts.
+Currently this doesn't work with scripts that take additional arguments, it is only designed to run hard-coded shell scripts.
 
 ### Setup:
 
