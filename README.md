@@ -12,6 +12,13 @@ Make sure to include `shell-it.sh` in your $PATH. My `.zshrc` includes this:
 ```zsh
 export PATH="$HOME/.scripts:$PATH"
 ```
+
+Alternatively, make an alias pointing directly to shell-it.sh:
+
+```zsh
+alias sh-it="~/path/to/shell-it.sh"
+```
+
 ### Usage:
 By default, Shell-It lists the scripts in your working directory.
 
