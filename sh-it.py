@@ -1,4 +1,3 @@
-from test.test_asyncio.test_unix_events import EXITCODE
 """
 shell-it is a command-line interface designed
 to search, view, and execute scripts.
