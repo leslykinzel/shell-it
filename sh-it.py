@@ -16,9 +16,6 @@ options:
 
 import os
 import sys
-import tty
-import select
-import termios
 import argparse
 from pathlib import Path
 from typing import Any
