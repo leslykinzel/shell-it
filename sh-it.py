@@ -25,13 +25,6 @@ ANSI_RED    = "\033[31m"
 ANSI_NC     = "\033[0m"
 ANSI_CLEAR  = "\033[H\033[J"
 
-RETURN      = "\r"
-ESCAPE      = "\x1b"
-CTRL_C      = "\x03"
-CTRL_D      = "\x04"
-UP_ARROW    = "[A"
-DOWN_ARROW  = "[B"
-
 
 def main():
     argv = argdef()
